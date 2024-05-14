@@ -1,0 +1,9 @@
+get user
+create user
+edit user
+delete user
+
+get
+post
+patch 
+delete
